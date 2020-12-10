@@ -1,10 +1,12 @@
 <pre class="metadata">
 Title: Media Session Standard
 Repository: w3c/mediasession
-Status: ED
+Status: FPWD
 ED: https://w3c.github.io/mediasession/
+TR: https://www.w3.org/TR/mediasession/
 Shortname: mediasession
-Level: 1
+Level: none
+Date: 2020-01-30
 Editor: Mounir Lamouri, w3cid 45389, Google Inc., mlamouri@google.com
 Editor: Becca Hughes, w3cid 103353, Google Inc., beccahughes@google.com
 Former Editor: Zhiqiang Zhang, Google Inc., zqzhang@google.com
